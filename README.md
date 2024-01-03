@@ -53,9 +53,9 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 - Matplotlib for data visualization.
 
 ## Author ✍️
-Ally Guo
-Mikayla Mao
-Rita Xiang
+Ally Guo,
+Mikayla Mao,
+Rita Xiang,
 
 
 ## Other information ℹ️
