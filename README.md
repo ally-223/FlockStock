@@ -45,8 +45,7 @@ The application would return detailed information about the stock and advise on 
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-## Acknowledgments 🤗
-
+## Acknowledgments 🫡
 - GPT for providing generative text.
 - Yahoo Finance for providing real-time stock data.
 - Flask for the web application framework.
